@@ -63,6 +63,12 @@ const Footer = () => {
 
       </div>
 
+      <div className='felxBetween footer_copyright'>
+        <p> @ 2023 Projekt ShareMe. All rights reserved. Designed By Jayodya Methmal </p>
+        
+        
+      </div>
+
     </footer>
   )
 }
